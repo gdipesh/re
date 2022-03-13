@@ -1,2 +1,0 @@
-# dg-all
-for me
