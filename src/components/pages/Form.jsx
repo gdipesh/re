@@ -10,7 +10,7 @@ import { Link } from 'react-router-dom';
 // import  {  faHeart, faUsers}  from "@fortawesome/free-solid-svg-icons";
 
 import { FcCollaboration } from 'react-icons/fc';
-import { useForm, ValidationError } from '@formspree/react';
+import { ValidationError, useForm } from '@formspree/react';
 
 const ContactForm =() => {
   const [state, handleSubmit] = useForm("xgedyeya");
