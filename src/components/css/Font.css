@@ -1,0 +1,36 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto";
+}
+
+
+
+
+.niconne{
+font-family: 'Niconne', cursive;
+}
+.text-shadow{
+    font-weight: 700px;
+    height:100vh;
+    color: antiquewhite;
+    font-size: 15rem;
+    background-color: rgb(235, 100, 100);
+      line-height: 90vh;
+      text-align: center;
+    text-shadow: 
+    
+    5px 5px 0px #eb452b, 
+    10px 10px 0px #efa032, 
+    15px 15px 0px #46b59b, 
+    20px 20px 0px #017e7f, 
+    25px 25px 0px #052939, 
+    30px 30px 0px #c11a2b, 
+    35px 35px 1px #c11a2b, 
+    40px 40px 2px #c11a2b, 
+    45px 45px 3px #c11a2b;
+    ;
+
+}
+ 
