@@ -7,6 +7,7 @@ import "./components/css/insta.css";
 import About from './components/pages/About';
 import Home from './components/pages/Home';
 import Info from "./components/pages/Info";
+
 const App =()=> {
   return (
    <>
@@ -15,6 +16,7 @@ const App =()=> {
         <Route path="/" element={<Home />} />
         <Route path="about" element={<About />} />
        <Route path="info" element={<Info/>}/>
+       <Route path="*" element={<Home />} />
       </Routes>
    
    </> 
